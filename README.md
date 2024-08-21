@@ -21,3 +21,8 @@ The objective of this project is to create a student grade tracker using Python.
 ### Technologies used
 **Python:** The primary programming language used for implementing the calculator’s logic and functionality.
 **IDLE/Any Python IDE:** Development environment used for writing and testing the code
+
+![grade mark](https://github.com/user-attachments/assets/696a7fc9-633d-4a57-8726-6df297e7fe34)
+
+
+
